@@ -1,4 +1,5 @@
 # Mini Games (Learning Project)   ☆
+You can see it here: https://mini-games028.netlify.app/
 
 This project is a small collection of browser games created while learning **JavaScript, React, and the HTML Canvas API**.
 
