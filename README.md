@@ -21,6 +21,7 @@ Features:
 ###  Pacman (Canvas + JavaScript)  ☆
 
 A simplified Pacman-style game built using the HTML Canvas API.
+Please note that this project is based on a YouTube tutorial and was recreated for learning purposes.
 
 Features:
 
