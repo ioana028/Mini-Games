@@ -20,9 +20,10 @@ function GameMenu() {
     },
     {
       id: 3,
-      title: "Coming Soon",
+      title: "Poor bunny",
       image: null,
-      available: false
+      link: "/games/bunny-js/index-bunny.html",
+      available: true
     },
     {
       id: 4,
